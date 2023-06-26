@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="taxable_amount" label="Taxable Amount" language="en" table="x_prop_inv_en_app_invoice">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>taxable_amount</element>
+            <help/>
+            <hint/>
+            <label>Taxable Amount</label>
+            <language>en</language>
+            <name>x_prop_inv_en_app_invoice</name>
+            <plural>Taxable Amounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jonathan.salazar</sys_created_by>
+            <sys_created_on>2023-04-12 22:32:16</sys_created_on>
+            <sys_id>ab5ee82f1bc2ed103d54a9b5624bcb3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Taxable Amount</sys_name>
+            <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
+            <sys_update_name>sys_documentation_x_prop_inv_en_app_invoice_taxable_amount_en</sys_update_name>
+            <sys_updated_by>jonathan.salazar</sys_updated_by>
+            <sys_updated_on>2023-04-12 22:32:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_prop_inv_en_app_service_rates" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_prop_inv_en_app_service_rates" element="NULL" name="x_prop_inv_en_app_service_rates" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4dc69b941b366510dddd53d7624bcb16</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-05-10 15:14:51</sys_created_on>
+            <sys_id>49c69b941b366510dddd53d7624bcb17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-05-10 15:14:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>service</element>
+            <list_id display_value="x_prop_inv_en_app_service_rates" element="NULL" name="x_prop_inv_en_app_service_rates" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4dc69b941b366510dddd53d7624bcb16</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-05-10 15:14:51</sys_created_on>
+            <sys_id>c9c69b941b366510dddd53d7624bcb17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-05-10 15:14:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>service_rate</element>
+            <list_id display_value="x_prop_inv_en_app_service_rates" element="NULL" name="x_prop_inv_en_app_service_rates" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4dc69b941b366510dddd53d7624bcb16</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-05-10 15:14:51</sys_created_on>
+            <sys_id>4dc69b941b366510dddd53d7624bcb17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-05-10 15:14:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>effective_from_period</element>
+            <list_id display_value="x_prop_inv_en_app_service_rates" element="NULL" name="x_prop_inv_en_app_service_rates" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4dc69b941b366510dddd53d7624bcb16</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-05-10 15:14:51</sys_created_on>
+            <sys_id>cdc69b941b366510dddd53d7624bcb17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-05-10 15:14:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>effective_to_period</element>
+            <list_id display_value="x_prop_inv_en_app_service_rates" element="NULL" name="x_prop_inv_en_app_service_rates" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4dc69b941b366510dddd53d7624bcb16</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-05-10 15:14:51</sys_created_on>
+            <sys_id>41c69b941b366510dddd53d7624bcb18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-05-10 15:14:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>billing_frequency</element>
+            <list_id display_value="x_prop_inv_en_app_service_rates" element="NULL" name="x_prop_inv_en_app_service_rates" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4dc69b941b366510dddd53d7624bcb16</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-05-10 15:14:51</sys_created_on>
+            <sys_id>c1c69b941b366510dddd53d7624bcb18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-05-10 15:14:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_prop_inv_en_app_service_rates" element="NULL" name="x_prop_inv_en_app_service_rates" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4dc69b941b366510dddd53d7624bcb16</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-05-10 15:14:51</sys_created_on>
+            <sys_id>45c69b941b366510dddd53d7624bcb18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-05-10 15:14:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_prop_inv_en_app_service_rates</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-05-10 15:14:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4dc69b941b366510dddd53d7624bcb16</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_prop_inv_en_app_service_rates</sys_name>
+            <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
+            <sys_update_name>sys_ui_list_x_prop_inv_en_app_service_rates_null</sys_update_name>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-05-10 15:14:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

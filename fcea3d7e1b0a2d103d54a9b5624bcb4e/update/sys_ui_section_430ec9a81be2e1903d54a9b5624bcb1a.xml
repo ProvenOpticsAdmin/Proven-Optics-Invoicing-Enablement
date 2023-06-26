@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="430ec9a81be2e1903d54a9b5624bcb1a" sys_domain="global" table="x_prop_inv_en_app_invoice" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>5f0ec9a81be2e1903d54a9b5624bcb22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver</element>
+            <position>1</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>570ec9a81be2e1903d54a9b5624bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver_group</element>
+            <position>2</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>5b0ec9a81be2e1903d54a9b5624bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>3</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>5f0ec9a81be2e1903d54a9b5624bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other_amount</element>
+            <position>4</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>530ec9a81be2e1903d54a9b5624bcb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>5</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>570ec9a81be2e1903d54a9b5624bcb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>5b0ec9a81be2e1903d54a9b5624bcb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ot_amt</element>
+            <position>7</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>5f0ec9a81be2e1903d54a9b5624bcb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>530ec9a81be2e1903d54a9b5624bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other_amt</element>
+            <position>9</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>570ec9a81be2e1903d54a9b5624bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>9f0ec9a81be2e1903d54a9b5624bcb4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>query_string</element>
+            <position>11</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>930ec9a81be2e1903d54a9b5624bcb4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>search</element>
+            <position>12</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>970ec9a81be2e1903d54a9b5624bcb4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>taxable_amt</element>
+            <position>13</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>9b0ec9a81be2e1903d54a9b5624bcb4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reviewer</element>
+            <position>14</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>9f0ec9a81be2e1903d54a9b5624bcb4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>15</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>930ec9a81be2e1903d54a9b5624bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reviewer_group</element>
+            <position>16</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>970ec9a81be2e1903d54a9b5624bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>17</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>9b0ec9a81be2e1903d54a9b5624bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>taxable_amount</element>
+            <position>18</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>9f0ec9a81be2e1903d54a9b5624bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tx_amt</element>
+            <position>19</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>930ec9a81be2e1903d54a9b5624bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>20</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>970ec9a81be2e1903d54a9b5624bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>taxes</element>
+            <position>21</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>9b0ec9a81be2e1903d54a9b5624bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>22</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>9f0ec9a81be2e1903d54a9b5624bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other_comments</element>
+            <position>23</position>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:19</sys_created_on>
+            <sys_id>930ec9a81be2e1903d54a9b5624bcb4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice_date</element>
+            <position>24</position>
+            <sys_created_by>jonathan.salazar</sys_created_by>
+            <sys_created_on>2023-05-04 21:09:58</sys_created_on>
+            <sys_id>ac8e25e21ba6a590dddd53d7624bcb32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>jonathan.salazar</sys_updated_by>
+            <sys_updated_on>2023-05-04 21:09:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payment_term</element>
+            <position>25</position>
+            <sys_created_by>jonathan.salazar</sys_created_by>
+            <sys_created_on>2023-05-04 21:09:58</sys_created_on>
+            <sys_id>648e25e21ba6a590dddd53d7624bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>jonathan.salazar</sys_updated_by>
+            <sys_updated_on>2023-05-04 21:09:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payor</element>
+            <position>26</position>
+            <sys_created_by>jonathan.salazar</sys_created_by>
+            <sys_created_on>2023-05-04 21:09:59</sys_created_on>
+            <sys_id>e08e25e21ba6a590dddd53d7624bcb55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>jonathan.salazar</sys_updated_by>
+            <sys_updated_on>2023-05-04 21:09:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>billing_address</element>
+            <position>27</position>
+            <sys_created_by>jonathan.salazar</sys_created_by>
+            <sys_created_on>2023-05-04 21:09:59</sys_created_on>
+            <sys_id>288e25e21ba6a590dddd53d7624bcb5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>jonathan.salazar</sys_updated_by>
+            <sys_updated_on>2023-05-04 21:09:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>billing_period</element>
+            <position>28</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-05-25 14:35:07</sys_created_on>
+            <sys_id>098d10d11bc761503d54a9b5624bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-05-25 14:35:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_amount</element>
+            <position>29</position>
+            <sys_created_by>jonathan.salazar</sys_created_by>
+            <sys_created_on>2023-06-12 18:13:35</sys_created_on>
+            <sys_id>b42cbd8b1b5b2d103d54a9b5624bcbf7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_invoice" sys_domain="global" view="Default view">430ec9a81be2e1903d54a9b5624bcb1a</sys_ui_section>
+            <sys_updated_by>jonathan.salazar</sys_updated_by>
+            <sys_updated_on>2023-06-12 18:13:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_prop_inv_en_app_invoice</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Dana.Weiland</sys_created_by>
+            <sys_created_on>2023-04-28 13:40:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>430ec9a81be2e1903d54a9b5624bcb1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_prop_inv_en_app_invoice</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
+            <sys_update_name>sys_ui_section_430ec9a81be2e1903d54a9b5624bcb1a</sys_update_name>
+            <sys_updated_by>Dana.Weiland</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:40:18</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

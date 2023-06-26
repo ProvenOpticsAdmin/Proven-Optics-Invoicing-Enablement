@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_prop_inv_en_app.POInvoiceEnablUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>POInvoiceEnablUtils</name>
+        <script><![CDATA[var POInvoiceEnablUtils = Class.create();
+POInvoiceEnablUtils.prototype = {
+    initialize: function() {},
+    retireBillingEntity: function() { //called from Retire Billing Entity Scheduled Job
+        var today = new GlideDateTime();
+
+        var activeEntity = new GlideRecord('x_prop_inv_en_app_billing_entity');
+        activeEntity.addEncodedQuery('effective_fromISNOTEMPTY^effective_toISNOTEMPTY');
+        activeEntity.query();
+        while (activeEntity.next()) {
+            var fiscalFromGDT = new GlideDateTime();
+            var fiscalFrom = new GlideRecord('fiscal_period');
+            if (fiscalFrom.get(activeEntity.getValue('effective_from'))) {
+
+                fiscalFromGDT.setValue(fiscalFrom.getDisplayValue('start_date_time'));
+
+                var fiscalTo = new GlideRecord('fiscal_period');
+                if (fiscalTo.get(activeEntity.getValue('effective_to'))) {
+
+                    var fiscalToGDT = new GlideDateTime();
+                    fiscalToGDT.setValue(fiscalTo.getDisplayValue('end_date_time'));
+
+                    var isAfter = fiscalFromGDT.onOrAfter(today);
+                    var isBefore = fiscalToGDT.onOrBefore(today);
+
+                    if (isAfter == true || isBefore == true) {
+                        activeEntity.setValue('active', false);
+                        activeEntity.setWorkflow(false);
+                        activeEntity.update();
+                    } else if (isBefore == false) {
+                        activeEntity.setValue('active', true);
+                        activeEntity.setWorkflow(false);
+                        activeEntity.update();
+                    }
+                }
+            }
+        }
+    },
+    type: 'POInvoiceEnablUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>kristina.todd</sys_created_by>
+        <sys_created_on>2023-06-15 16:34:09</sys_created_on>
+        <sys_id>b991458c1be721503d54a9b5624bcbe6</sys_id>
+        <sys_mod_count>30</sys_mod_count>
+        <sys_name>POInvoiceEnablUtils</sys_name>
+        <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
+        <sys_policy>protected</sys_policy>
+        <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
+        <sys_update_name>sys_script_include_b991458c1be721503d54a9b5624bcbe6</sys_update_name>
+        <sys_updated_by>kristina.todd</sys_updated_by>
+        <sys_updated_on>2023-06-26 16:11:24</sys_updated_on>
+    </sys_script_include>
+</record_update>

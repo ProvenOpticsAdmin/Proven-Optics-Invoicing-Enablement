@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>c5c39f171b026d10dddd53d7624bcb2d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_prop_inv_en_app_billing_frequency">
+    <x_prop_inv_en_app_billing_frequency action="INSERT_OR_UPDATE">
+        <name>Monthly</name>
+        <sys_created_by>kristina.todd</sys_created_by>
+        <sys_created_on>2023-04-12 15:56:52</sys_created_on>
+        <sys_id>c5c39f171b026d10dddd53d7624bcb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kristina.todd</sys_updated_by>
+        <sys_updated_on>2023-04-12 15:56:52</sys_updated_on>
+    </x_prop_inv_en_app_billing_frequency>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>kristina.todd</sys_created_by>
+        <sys_created_on>2023-04-12 15:57:32</sys_created_on>
+        <sys_id>9d0453571b026d10dddd53d7624bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monthly</sys_name>
+        <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
+        <sys_update_name>sys_metadata_link_9d0453571b026d10dddd53d7624bcbae</sys_update_name>
+        <sys_updated_by>kristina.todd</sys_updated_by>
+        <sys_updated_on>2023-04-12 15:57:32</sys_updated_on>
+        <tablename>x_prop_inv_en_app_billing_frequency</tablename>
+    </sys_metadata_link>
+</record_update>

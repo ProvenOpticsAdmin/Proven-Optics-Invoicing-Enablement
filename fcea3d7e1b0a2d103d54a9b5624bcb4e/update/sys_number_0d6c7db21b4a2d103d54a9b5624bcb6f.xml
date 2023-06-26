@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_prop_inv_en_app_service_rates">x_prop_inv_en_app_service_rates</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SER</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>jonathan.salazar</sys_created_by>
+        <sys_created_on>2023-04-10 20:17:43</sys_created_on>
+        <sys_id>0d6c7db21b4a2d103d54a9b5624bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SER</sys_name>
+        <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
+        <sys_update_name>sys_number_0d6c7db21b4a2d103d54a9b5624bcb6f</sys_update_name>
+        <sys_updated_by>jonathan.salazar</sys_updated_by>
+        <sys_updated_on>2023-04-10 20:17:43</sys_updated_on>
+    </sys_number>
+</record_update>
