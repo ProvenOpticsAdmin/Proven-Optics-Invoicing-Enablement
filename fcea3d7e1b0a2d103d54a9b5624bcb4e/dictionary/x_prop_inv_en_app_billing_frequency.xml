@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="f6c40a7a1b4a2d103d54a9b5624bcb72" label="Billing Frequency" max_length="40" name="x_prop_inv_en_app_billing_frequency" type="collection">
-        <element label="Name" max_length="40" name="name" type="string"/>
-    </element>
-</database>

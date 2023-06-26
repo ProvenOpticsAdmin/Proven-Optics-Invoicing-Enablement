@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="active" table="x_prop_inv_en_app_billing_entity">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -52,6 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>kristina.todd</sys_created_by>
         <sys_created_on>2023-05-03 21:37:38</sys_created_on>
+        <sys_id>7a2bac121b266590dddd53d7624bcba4</sys_id>
         <sys_name>Active</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>

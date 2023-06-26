@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="1df586fa1b4a2d103d54a9b5624bcb92" label="Payment Terms" max_length="40" name="x_prop_inv_en_app_payment_terms" type="collection">
-        <element label="Name" max_length="40" name="name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Value" max_length="40" name="value" type="integer"/>
-    </element>
-</database>

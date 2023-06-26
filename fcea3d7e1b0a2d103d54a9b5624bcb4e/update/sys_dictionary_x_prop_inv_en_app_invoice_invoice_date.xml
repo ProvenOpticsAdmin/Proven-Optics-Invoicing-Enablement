@@ -52,6 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jonathan.salazar</sys_created_by>
         <sys_created_on>2023-05-04 21:09:58</sys_created_on>
+        <sys_id>ad2de5621ba6a590dddd53d7624bcbb2</sys_id>
         <sys_name>Invoice Date</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>

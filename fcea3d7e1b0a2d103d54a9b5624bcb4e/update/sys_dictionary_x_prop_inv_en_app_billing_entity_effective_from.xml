@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="effective_from" table="x_prop_inv_en_app_billing_entity">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
+        <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -52,6 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>kristina.todd</sys_created_by>
         <sys_created_on>2023-06-14 20:59:58</sys_created_on>
+        <sys_id>3745b8fb1b97ed103d54a9b5624bcbaf</sys_id>
         <sys_name>Effective From</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>

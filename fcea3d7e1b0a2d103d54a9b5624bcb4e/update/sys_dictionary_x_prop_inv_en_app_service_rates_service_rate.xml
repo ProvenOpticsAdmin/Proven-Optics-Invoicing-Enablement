@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="service_rate" table="x_prop_inv_en_app_service_rates">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true,omit_sys_original=true,serializer=com.glide.currency2.Currency2XMLSerializer</attributes>
+        <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -52,6 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jonathan.salazar</sys_created_by>
         <sys_created_on>2023-04-10 20:47:59</sys_created_on>
+        <sys_id>e1c2427a1b4a2d103d54a9b5624bcb2a</sys_id>
         <sys_name>Service Rate</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>

@@ -22,14 +22,14 @@
         <sys_created_by>kristina.todd</sys_created_by>
         <sys_created_on>2023-05-03 21:33:30</sys_created_on>
         <sys_id>aef9e8de1be26590dddd53d7624bcb71</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Consumer/Payor Entity</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
         <sys_update_name>sys_db_object_aef9e8de1be26590dddd53d7624bcb71</sys_update_name>
         <sys_updated_by>jonathan.salazar</sys_updated_by>
-        <sys_updated_on>2023-07-10 17:49:02</sys_updated_on>
+        <sys_updated_on>2023-06-23 14:49:28</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_prop_inv_en_app.admin" name="x_prop_inv_en_app.admin">7e168e3e1b4a2d103d54a9b5624bcbb5</user_role>
         <ws_access>true</ws_access>

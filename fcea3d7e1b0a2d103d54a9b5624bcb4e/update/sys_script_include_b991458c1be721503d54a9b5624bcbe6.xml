@@ -1,54 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
     <sys_script_include action="INSERT_OR_UPDATE">
-        <access>public</access>
+        <access>package_private</access>
         <active>true</active>
         <api_name>x_prop_inv_en_app.POInvoiceEnablUtils</api_name>
-        <caller_access>1</caller_access>
+        <caller_access/>
         <client_callable>false</client_callable>
-        <description>This script include can be used if needing to access write, update, delete from and outside scope</description>
+        <description/>
         <name>POInvoiceEnablUtils</name>
         <script><![CDATA[var POInvoiceEnablUtils = Class.create();
 POInvoiceEnablUtils.prototype = {
     initialize: function() {},
-	/**SNDOC
-    @name process
-    @description Used to limit the what tables are available for the table name type fields
-    @returns {Array} Array of table names that are allowed to be brought in
-    */
-	process: function(){
-		var tableNames = [];
-		var i;
-		
-		var taskTables = new GlideTableHierarchy("task");
-		var taskArray = taskTables.getAllExtensions();
-		for (i=0; i<taskArray.length;i++){
-			tableNames.push(taskArray[i]);
-		}
-		
-		var assetTables = new GlideTableHierarchy("alm_asset");
-		var assetArray = assetTables.getAllExtensions();
-		for (i=0; i<assetArray.length;i++){
-			tableNames.push(assetArray[i]);
-		}
-		
-		var cmdbTables = new GlideTableHierarchy('cmdb');
-		var cmdbArray = cmdbTables.getAllExtensions();
-		for (i=0; i<cmdbArray.length;i++){
-			tableNames.push(cmdbArray[i]);
-		}
-		
-		var extraNames = gs.getProperty('x_prop_bill.available_table_names').trim().replaceAll(' ','');		
-		if (extraNames != ''){
-			extraNames = extraNames.split(',');
-			for (i=0; i<extraNames.length;i++){
-				tableNames.push(extraNames[i]);
-			}
-		} 
-		
-		tableNames.push('sys_user');
-		
-		return tableNames;		
-	},
     retireBillingEntity: function() { //called from Retire Billing Entity Scheduled Job
         var today = new GlideDateTime();
 
@@ -84,67 +45,19 @@ POInvoiceEnablUtils.prototype = {
             }
         }
     },
-
-    /**SNDOC
-	@name createEntity
-	@description Function use to create entities. Required fields are reference_table, reference_record, payor or consumer.
-	@param {Object} [entObj] - Object containing the relevent entity information
-	@returns {string} Returns the entity sys id that was created;
-	@example
-    var entObj = {
-        "payor": true,
-        "reference_table" : "sys_user",
-        "reference_record" : "d65d28d81bff61103d54a9b5624bcb7d",
-        .....
-    }
-	var entitySys = new x_prop_inv_en_app.POInvoiceEnablUtils().createEntity(entObj);
-	*/
-    createEntity: function(entObj){        
-        var entity = '';
-        if (('reference_table' in entObj) && ('reference_record' in entObj) && (('payor' in entObj) || ('consumer' in entObj))) {
-            var entGr = new GlideRecord('x_prop_inv_en_app_billing_entity');
-            entGr.initialize();
-            entGr.unverified_entity = true;
-            for (var key in entObj) {
-                entGr[key] = entObj[key];
-            }
-
-            entity = entGr.insert();   
-        }
-        return entity;
-    },
-	/**SNDOC
-	@name updateEntity
-	@description Function use to update billing entities. 
-	@param {GlideRecord} [entityGr] - Entity gliderecord we are Updating
-	@param {Object} [entObj] - Object containing the relevent entity information to be updated
-	@example
-    var entObj = {
-        "payor": true,
-        "tax_rate" : ".05",
-        .....
-    }
-	new x_prop_inv_en_app.POInvoiceEnablUtils().updateEntity(entObj);
-	*/
-    updateEntity: function(entityGr, entObj){               
-		for (var key in entObj) {
-			entityGr[key] = entObj[key];
-		}
-		entityGr.update();          
-    },
     type: 'POInvoiceEnablUtils'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>kristina.todd</sys_created_by>
         <sys_created_on>2023-06-15 16:34:09</sys_created_on>
         <sys_id>b991458c1be721503d54a9b5624bcbe6</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name>POInvoiceEnablUtils</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy>protected</sys_policy>
         <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
         <sys_update_name>sys_script_include_b991458c1be721503d54a9b5624bcbe6</sys_update_name>
-        <sys_updated_by>jonathan.salazar</sys_updated_by>
-        <sys_updated_on>2023-07-20 16:31:25</sys_updated_on>
+        <sys_updated_by>kristina.todd</sys_updated_by>
+        <sys_updated_on>2023-06-26 16:11:24</sys_updated_on>
     </sys_script_include>
 </record_update>

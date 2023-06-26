@@ -3,436 +3,422 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>photo</element>
             <position>0</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>4dc335441bc471503d54a9b5624bcbd6</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5717b87f1b97ed103d54a9b5624bcb77</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>name</element>
             <position>1</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>41c335441bc471503d54a9b5624bcbd7</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>d717b87f1b97ed103d54a9b5624bcb77</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>customer_id</element>
             <position>2</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>45c335441bc471503d54a9b5624bcbd7</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5b17b87f1b97ed103d54a9b5624bcb77</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reference_table</element>
             <position>3</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>49c335441bc471503d54a9b5624bcbd7</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>db17b87f1b97ed103d54a9b5624bcb77</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reference_record</element>
             <position>4</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>4dc335441bc471503d54a9b5624bcbd7</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5f17b87f1b97ed103d54a9b5624bcb77</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>5</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>41c335441bc471503d54a9b5624bcbd8</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>df17b87f1b97ed103d54a9b5624bcb77</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
             <position>6</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>45c335441bc471503d54a9b5624bcbd8</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5317b87f1b97ed103d54a9b5624bcb78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>effective_from</element>
             <position>7</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>49c335441bc471503d54a9b5624bcbd8</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>d317b87f1b97ed103d54a9b5624bcb78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>effective_to</element>
             <position>8</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>4dc335441bc471503d54a9b5624bcbd8</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5717b87f1b97ed103d54a9b5624bcb78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>payment_term</element>
             <position>9</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>41c335441bc471503d54a9b5624bcbd9</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>d717b87f1b97ed103d54a9b5624bcb78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>tax_rate</element>
             <position>10</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>45c335441bc471503d54a9b5624bcbd9</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5b17b87f1b97ed103d54a9b5624bcb78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>billing_frequency</element>
             <position>11</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>49c335441bc471503d54a9b5624bcbd9</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>db17b87f1b97ed103d54a9b5624bcb78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>12</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>4dc335441bc471503d54a9b5624bcbd9</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5f17b87f1b97ed103d54a9b5624bcb78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
             <position>13</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>41c335441bc471503d54a9b5624bcbda</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>df17b87f1b97ed103d54a9b5624bcb78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>consumer</element>
             <position>14</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>45c335441bc471503d54a9b5624bcbda</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5317b87f1b97ed103d54a9b5624bcb79</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>payor</element>
             <position>15</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>49c335441bc471503d54a9b5624bcbda</sys_id>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>d317b87f1b97ed103d54a9b5624bcb79</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>16</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>4dc335441bc471503d54a9b5624bcbda</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>unverified_entity</element>
-            <position>17</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>41c335441bc471503d54a9b5624bcbdb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>18</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>45c335441bc471503d54a9b5624bcbdb</sys_id>
+            <position>16</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5717b87f1b97ed103d54a9b5624bcb79</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>billing_address_1</element>
-            <position>19</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>49c335441bc471503d54a9b5624bcbdb</sys_id>
+            <position>17</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>d717b87f1b97ed103d54a9b5624bcb79</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>billing_address_2</element>
-            <position>20</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>4dc335441bc471503d54a9b5624bcbdb</sys_id>
+            <position>18</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5b17b87f1b97ed103d54a9b5624bcb79</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>city_state_zip_code</element>
-            <position>21</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>41c335441bc471503d54a9b5624bcbdc</sys_id>
+            <position>19</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>db17b87f1b97ed103d54a9b5624bcb79</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>country</element>
-            <position>22</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>45c335441bc471503d54a9b5624bcbdc</sys_id>
+            <position>20</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5f17b87f1b97ed103d54a9b5624bcb79</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>billing_email</element>
-            <position>23</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>49c335441bc471503d54a9b5624bcbdc</sys_id>
+            <position>21</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>df17b87f1b97ed103d54a9b5624bcb79</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>phone_number</element>
-            <position>24</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>4dc335441bc471503d54a9b5624bcbdc</sys_id>
+            <position>22</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5317b87f1b97ed103d54a9b5624bcb7a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>25</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>41c335441bc471503d54a9b5624bcbdd</sys_id>
+            <position>23</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>d317b87f1b97ed103d54a9b5624bcb7a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>bill_to_department</element>
-            <position>26</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>45c335441bc471503d54a9b5624bcbdd</sys_id>
+            <position>24</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5717b87f1b97ed103d54a9b5624bcb7a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>business_unit</element>
-            <position>27</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>49c335441bc471503d54a9b5624bcbdd</sys_id>
+            <position>25</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>d717b87f1b97ed103d54a9b5624bcb7a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>28</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>4dc335441bc471503d54a9b5624bcbdd</sys_id>
+            <position>26</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5b17b87f1b97ed103d54a9b5624bcb7a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>invoice_currency_code</element>
-            <position>29</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>41c335441bc471503d54a9b5624bcbde</sys_id>
+            <position>27</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>db17b87f1b97ed103d54a9b5624bcb7a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>language</element>
-            <position>30</position>
-            <sys_created_by>jonathan.salazar</sys_created_by>
-            <sys_created_on>2023-07-10 16:42:18</sys_created_on>
-            <sys_id>45c335441bc471503d54a9b5624bcbde</sys_id>
+            <position>28</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>5f17b87f1b97ed103d54a9b5624bcb7a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
-            <sys_updated_by>jonathan.salazar</sys_updated_by>
-            <sys_updated_on>2023-07-10 16:42:18</sys_updated_on>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>29</position>
+            <sys_created_by>kristina.todd</sys_created_by>
+            <sys_created_on>2023-06-14 21:07:27</sys_created_on>
+            <sys_id>df17b87f1b97ed103d54a9b5624bcb7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_inv_en_app_billing_entity" sys_domain="global" view="Default view">51ee6c561b266590dddd53d7624bcbb5</sys_ui_section>
+            <sys_updated_by>kristina.todd</sys_updated_by>
+            <sys_updated_on>2023-06-14 21:07:27</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

@@ -14,5 +14,6 @@
         <sys_updated_by>jonathan.salazar</sys_updated_by>
         <sys_updated_on>2023-04-10 21:10:24</sys_updated_on>
         <sys_user_role display_value="x_prop_inv_en_app.admin" name="x_prop_inv_en_app.admin">7e168e3e1b4a2d103d54a9b5624bcbb5</sys_user_role>
+        <transaction_id/>
     </sys_security_acl_role>
 </record_update>
