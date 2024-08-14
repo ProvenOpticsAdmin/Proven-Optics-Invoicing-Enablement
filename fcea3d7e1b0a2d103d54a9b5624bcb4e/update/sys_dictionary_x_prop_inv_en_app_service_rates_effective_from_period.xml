@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="effective_from_period" table="x_prop_inv_en_app_service_rates">
         <active>true</active>
         <array>false</array>
-        <attributes>encode_utf8=false</attributes>
+        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jonathan.salazar</sys_created_by>
         <sys_created_on>2023-04-10 20:17:43</sys_created_on>
-        <sys_id>4d6c7db21b4a2d103d54a9b5624bcb72</sys_id>
         <sys_name>Effective From Period</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>

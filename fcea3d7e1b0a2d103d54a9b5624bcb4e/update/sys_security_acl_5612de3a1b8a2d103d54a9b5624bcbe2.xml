@@ -5,9 +5,11 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on x_prop_inv_en_app_invoice_key_definition</description>
+        <local_or_existing>Local</local_or_existing>
         <name>x_prop_inv_en_app_invoice_key_definition</name>
         <operation display_value="delete">delete</operation>
         <script/>
+        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>jonathan.salazar</sys_created_by>
         <sys_created_on>2023-04-10 21:52:34</sys_created_on>

@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="payment_term" table="x_prop_inv_en_app_invoice">
         <active>true</active>
         <array>false</array>
-        <attributes>readonly_clickthrough=true</attributes>
+        <attributes>edge_encryption_enabled=true,encode_utf8=false,readonly_clickthrough=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jonathan.salazar</sys_created_by>
         <sys_created_on>2023-05-04 21:09:58</sys_created_on>
-        <sys_id>060eed621ba6a590dddd53d7624bcbc3</sys_id>
         <sys_name>Payment Term</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>

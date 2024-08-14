@@ -2,12 +2,12 @@
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
         <dependency display_value="Organization Extension" source="com.snc.organization_extension">be8f7977dbc01010afdb3437b99619d2</dependency>
         <min_version>1.0.0</min_version>
-        <sys_created_by>jonathan.salazar</sys_created_by>
-        <sys_created_on>2023-04-11 18:55:48</sys_created_on>
-        <sys_id>07337ac71b0e6d103d54a9b5624bcba5</sys_id>
+        <sys_created_by>Dana.Weiland</sys_created_by>
+        <sys_created_on>2023-07-14 13:58:35</sys_created_on>
+        <sys_id>6da4f1591b04391091d465f1604bcb30</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
-        <sys_updated_by>jonathan.salazar</sys_updated_by>
-        <sys_updated_on>2023-04-11 18:55:48</sys_updated_on>
+        <sys_updated_by>Dana.Weiland</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:58:35</sys_updated_on>
     </sys_package_dependency_m2m>
 </record_update>

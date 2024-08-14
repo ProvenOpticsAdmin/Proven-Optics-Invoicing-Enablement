@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="service_table" table="x_prop_inv_en_app_service_rates">
         <active>true</active>
         <array>false</array>
-        <attributes>tableChoicesScript=x_prop_inv_en_app.POInvoiceEnablUtils,includeNone=true,show_table_names_on_label=true</attributes>
+        <attributes>base_start=true,edge_encryption_enabled=true,includeNone=true,show_table_names_on_label=true,tableChoicesScript=x_prop_inv_en_app.POInvoiceEnablUtils</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jonathan.salazar</sys_created_by>
         <sys_created_on>2023-04-10 20:37:35</sys_created_on>
-        <sys_id>f08086361b4a2d103d54a9b5624bcb38</sys_id>
         <sys_name>Service Table</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>

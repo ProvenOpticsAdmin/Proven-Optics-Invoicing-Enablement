@@ -17,6 +17,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query>https://provenoptics.service-now.com/customer_support?id=customer_support_index&amp;sys_id=621a01601b29251081cfeb17b04bcb25</query>
         <report/>
+        <require_confirmation>true</require_confirmation>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>Dana.Weiland</sys_created_by>
