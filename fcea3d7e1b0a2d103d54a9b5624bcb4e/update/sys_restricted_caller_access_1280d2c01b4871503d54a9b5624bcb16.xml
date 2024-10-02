@@ -7,19 +7,19 @@
         <source_scope display_value="Proven Optics Billing">50fbbfce1bcb95103df6ed74bd4bcb76</source_scope>
         <source_table>sys_script_include</source_table>
         <source_type>2</source_type>
-        <status>2</status>
+        <status>3</status>
         <sys_class_name>sys_restricted_caller_access</sys_class_name>
         <sys_created_by>jonathan.salazar</sys_created_by>
         <sys_created_on>2023-07-10 18:48:01</sys_created_on>
         <sys_id>1280d2c01b4871503d54a9b5624bcb16</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>50fbbfce1bcb95103df6ed74bd4bcb76</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
         <sys_update_name>sys_restricted_caller_access_1280d2c01b4871503d54a9b5624bcb16</sys_update_name>
-        <sys_updated_by>jonathan.salazar</sys_updated_by>
-        <sys_updated_on>2023-07-14 20:21:36</sys_updated_on>
+        <sys_updated_by>kristina.todd</sys_updated_by>
+        <sys_updated_on>2023-08-15 16:20:17</sys_updated_on>
         <target>b991458c1be721503d54a9b5624bcbe6</target>
         <target_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</target_scope>
         <target_table>sys_script_include</target_table>

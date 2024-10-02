@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_prop_inv_en_app_billing_frequency</name>
+        <name>x_prop_inv_en_app_invoice_key_definition</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>jonathan.salazar</sys_created_by>
-        <sys_created_on>2023-04-10 20:55:55</sys_created_on>
-        <sys_id>34254efa1b4a2d103d54a9b5624bcb93</sys_id>
+        <sys_created_on>2023-04-10 21:52:34</sys_created_on>
+        <sys_id>791b52271bab251091d465f1604bcb96</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_prop_inv_en_app_billing_frequency</sys_name>
+        <sys_name>x_prop_inv_en_app_invoice_key_definition</sys_name>
         <sys_package display_value="Proven Optics Invoicing Enablement Pack" source="x_prop_inv_en_app">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Proven Optics Invoicing Enablement Pack">fcea3d7e1b0a2d103d54a9b5624bcb4e</sys_scope>
-        <sys_update_name>ua_table_licensing_config_34254efa1b4a2d103d54a9b5624bcb93</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_791b52271bab251091d465f1604bcb96</sys_update_name>
         <sys_updated_by>jonathan.salazar</sys_updated_by>
-        <sys_updated_on>2023-04-10 20:55:55</sys_updated_on>
+        <sys_updated_on>2023-04-10 21:52:34</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
